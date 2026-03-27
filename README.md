@@ -14,10 +14,11 @@
 
 | Metric | Mean ± Std |
 |--------|-----------|
-| 🎲 Dice Score (F1) | **~0.91 ± 0.02** |
-| 📐 IoU Score | **~0.84 ± 0.03** |
-| 👁️ Sensitivity | **~0.90 ± 0.02** |
-| 🛡️ Specificity | **~0.99 ± 0.01** |
+| 🎲 Dice Score (F1) | **~0.9095** |
+| 📐 IoU Score | **~0.8360** |
+| 🎯 Accuracy  | **~ 0.9972** |
+| 👁️ Sensitivity | **~0.9302** |
+| 🛡️ Specificity | **~ 0.9985** |
 
 ---
 
