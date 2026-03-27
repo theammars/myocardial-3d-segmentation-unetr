@@ -12,7 +12,7 @@
 
 ## 📊 Final Results
 
-| Metric | Mean ± Std |
+| Metric | Score |
 |--------|-----------|
 | 🎲 Dice Score (F1) | **~0.9095** |
 | 📐 IoU Score | **~0.8360** |
