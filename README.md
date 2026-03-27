@@ -16,9 +16,9 @@
 |--------|-----------|
 | 🎲 Dice Score (F1) | **~0.9095** |
 | 📐 IoU Score | **~0.8360** |
-| 🎯 Accuracy  | **~ 0.9972** |
+| 🎯 Accuracy  | **~0.9972** |
 | 👁️ Sensitivity | **~0.9302** |
-| 🛡️ Specificity | **~ 0.9985** |
+| 🛡️ Specificity | **~0.9985** |
 
 ---
 
